@@ -546,7 +546,7 @@ body {
   .menu-sidebar {
     position: fixed;
     left: 0;
-    top: 25px;
+    top: 18px;
     width: 100%;
     max-width: 250px;
     background-color: #f1f1f1;
